@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Turgay",
+      "lastName": "Çelen",
+      "studentNumber": 3523,
+      "studentClass": "5/G",
+      "schoolName": "Cumhuriyet İ.Ö.O."
+    },
+    {
+      "id": "1676307041090",
+      "firstName": "Mustafa",
+      "lastName": "Yılmaz",
+      "studentNumber": "3524",
+      "studentClass": "15/M",
+      "schoolName": "Peyamitepe İ.Ö.O."
+    },
+    {
+      "id": "1676314504706",
+      "firstName": "Ali",
+      "lastName": "Efendi",
+      "studentNumber": "3525",
+      "studentClass": "9/C",
+      "schoolName": "Atatürk İ.Ö.O."
+    },
+    {
+      "id": "1676354800772",
+      "firstName": "Mahmut",
+      "lastName": "Recai",
+      "studentNumber": "3527",
+      "studentClass": "15/G",
+      "schoolName": "Peyamitepe İ.Ö.O."
+    }
+  ]
+}
